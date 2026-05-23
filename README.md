@@ -13,7 +13,11 @@ Hi, I'm Roberta. I'm an aspiring Data Analyst based in the UK, currently buildin
 | France, Germany, Mexico | 3-country comparison |
 | All Countries Matrix | Complete view all countries and products |
 
-*🖼️ Screenshots will be added soon*
+<img src="images/profit-by-product.png" width="400">
+<img src="images/france-vs-mexico-table.png" width="400">
+<img src="images/france-vs-mexico-percent.png" width="400">
+<img src="images/france-germany-mexico-table.png" width="400">
+<img src="images/all-countries-matrix.png" width="400">
 
 ## 🗃️ SQL Queries
 
