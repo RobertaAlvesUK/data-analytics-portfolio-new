@@ -18,6 +18,7 @@ Hi, I'm Roberta. I'm an aspiring Data Analyst based in the UK, currently buildin
 <img src="images/france-vs-mexico-percent.png" width="400">
 <img src="images/france-germany-mexico-table.png" width="400">
 <img src="images/all-countries-matrix.png" width="400">
+<img src="images/dashboard-interativo.png" width="400">
 
 ## 🗃️ SQL Queries
 
