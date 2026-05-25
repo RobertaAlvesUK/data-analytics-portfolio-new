@@ -28,6 +28,7 @@ Hi, I'm Roberta. I'm an aspiring Data Analyst based in the UK, currently buildin
 | *Coming soon* | Customer segmentation queries |
 
 <img src="images/Add first SQL query screenshot.png" width="400">
+<img src="images/sql-count-by-country.png" width="400">
 
 ## 🐍 Python (Coming soon)
 - Data cleaning with pandas
