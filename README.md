@@ -1,5 +1,9 @@
 # 📊 Data Analytics Portfolio
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
 ## 👋 About Me
 Hi, I'm Roberta. I'm an aspiring Data Analyst based in the UK, currently building my skills in **Power BI, SQL, and Python**. This portfolio showcases my hands-on projects as I work towards a Junior Data Analyst role.
 
